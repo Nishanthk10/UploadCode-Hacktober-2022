@@ -1,0 +1,22 @@
+arr=[1,2,3,4] 
+arr2=[1,2,3,'data'] for i in
+arr : print(i) 
+print(type(i)) for i in
+range(0,len(arr)): 
+print(arr[i]) 
+print(type(arr[i])) 
+print(arr) print(type(arr)) 
+print(arr[0:3:2]) 
+print(arr[0::]) print(arr[-
+1:-5:-1]) print(arr[::-1]) 
+for i in arr2 : print(i) 
+print(type(i)) for i in
+range(0,len(arr2)): 
+print(arr2[i]) 
+print(type(arr2[i])) 
+print(arr2) 
+print(type(arr2)) 
+print(arr[0:3:2]) 
+print(arr[0::]) print(arr[-
+1:-5:-1]) 
+print(arr[::-1])
