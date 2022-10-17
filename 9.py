@@ -1,4 +1,4 @@
-# Edge Detection - LAPLACIAN, CANNY
+#10. Edge Detection - LAPLACIAN, CANNY
 
 import cv2
 img = cv2.imread('1.jpg',0)
