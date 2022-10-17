@@ -1,4 +1,4 @@
-#1. READ THE IMAGE
+# READ THE IMAGE
 import cv2
 img = cv2.imread('1.jpg')# to read image
 cv2.imshow('Output',img) # to display image
