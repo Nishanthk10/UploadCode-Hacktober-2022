@@ -13,4 +13,4 @@ img[200:300,200:300] = 255,255,255
 
 cv2.imshow('CHECKER BOARD',img)
 cv2.waitKey(0)
-cv2.destroyAllWindows()
+cv2.destroyAllWindows() #Close
